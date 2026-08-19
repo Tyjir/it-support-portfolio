@@ -4,7 +4,7 @@ A collection of practical, hands-on guides covering common IT support scenarios 
 management, Windows and Linux troubleshooting, networking, and ticket triage. Each guide walks
 through a real-world scenario the way I'd document it for an end user or a knowledge base.
 
-📫 [LinkedIn]((https://www.linkedin.com/in/tyjir-dawson?)) · 📍 Open to remote roles
+📫 [LinkedIn](https://www.linkedin.com/in/tyjir-dawson? utm_source) · 📍 Open to remote roles
 
 ---
 
